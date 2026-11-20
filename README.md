@@ -40,3 +40,7 @@ Landsat imaging was obtained throuhg the [Microsoft Planetary Computer data cata
 County of Los Angeles. (2025). Palisades and Eaton Dissolved Fire Perimeters (2025). County of Los Angeles Open Data. https://data.lacounty.gov/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about  
 
 Earth Resources Observation and Science (EROS) Center. (2020). Landsat 8-9 Operational Land Imager / Thermal Infrared Sensor Level-2, Collection 2 [dataset]. U.S. Geological Survey. https://doi.org/10.5066/P9OGBGM6.
+
+Riebeek, H. (2025). Why is that Forest Red and that cloud blue? how to interpret a false-color satellite image - NASA science. NASA Earth Observatory. https://science.nasa.gov/earth/earth-observatory/how-to-interpret-a-false-color-satellite-image/ 
+
+U.S. Geological Survey. (2026). What are the band designations for the Landsat Satellites?. USGS. https://www.usgs.gov/faqs/what-are-band-designations-landsat-satellites 
