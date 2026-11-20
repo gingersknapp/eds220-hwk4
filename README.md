@@ -1,9 +1,11 @@
 # EDS220-HW4: Visualizing fire scars through false color
 This repository houses materials for Task 2 of HW4 for [EDS220 course](https://github.com/MEDS-eds-220/MEDS-eds-220-course/) at UCSB's Bren School of Environmental Science and Management. 
 
+![Shortwave infrared, near infrared, red false color image of the Eaton and Palisades fire burnscars, February 2025](https://github.com/gingersknapp/eds220-hwk4/blob/main/images/EatonPalisadesSWIR-NIR-R.png)
+
 ## About
 
-This repository contains a notebook `hwk4-task2-false-color-KNAPP.ipynb` visualizing the burnscars from the 2025 Eaton and Palisades Fire using true color and false color imaging.
+This repository contains a notebook `hwk4-task2-false-color-KNAPP.ipynb` visualizing the burnscars from the 2025 Eaton and Palisades Fire using true color and false color imaging. The final false-color map is available in the `images/` directory
 
 ## Highlights
 - Geospatial data wrangling with `geopandas`
@@ -17,6 +19,7 @@ This repository contains a notebook `hwk4-task2-false-color-KNAPP.ipynb` visuali
 |README.md                    | README for the repository           |
 |hwk4-task2-false-color-KNAPP.ipynb                | Analysis code document              |
 |hwk4-task2-false-color-KNAPP.pdf                | Exportable analysis PDF             |
+|images/                      | Exportable false color map          |
 |LICENSE                      | Use license                         |
 |.gitignore                   | Untracked files                     |                            
 
