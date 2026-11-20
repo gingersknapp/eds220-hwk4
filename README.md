@@ -28,7 +28,7 @@ This repository contains a notebook `hwk4-task2-false-color-KNAPP.ipynb` visuali
 Data used in this analyis is not housed in this repository.
 Shapefiles for the Eaton and Palisades Fire perimeters were downloaded from the [County of LA](https://data.lacounty.gov/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about).
 
-Landsat imaging was obtained throuhg the [Microsoft Planetary Computer data catalog](https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2)
+Landsat imaging was obtained through the [Microsoft Planetary Computer data catalog](https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2).  Data came from Landsat 8's OLI (Operational Land Imager) and TIRS sensors (Thermal Infrared Sensor).
 
 
 ## Authors
