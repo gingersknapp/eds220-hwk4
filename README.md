@@ -10,7 +10,7 @@ This repository contains a notebook `hwk4-task2-false-color-KNAPP.ipynb` visuali
 ## Highlights
 - Geospatial data wrangling with `geopandas`
 - NetCDF raster data wrangling with `xarray` and `rioxarray`
-- True and False color imaging with `matplotlib`
+- True and False color imaging with `matplotlib` and `xarray`
 
 ## Repository Structure
 
